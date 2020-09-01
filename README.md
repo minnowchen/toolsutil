@@ -6,11 +6,15 @@
       Compartor：自訂排序
         GroupNameComparator：自訂甲乙丙丁群組名稱排序法
         TwoClassComparator：兩種不同JavaBean排序（以時間排序）
+        objComparator：
+            ComparatorByOption：自訂八大型態排序
+            SortOption：指定要排序的參數
 
       IO：實做範例
         ReadCLTrade_Y_HS8：讀取txt/csv實做範例
 
       Tools：共用程式
+        
         Crawler
           Geoip2Util：取得IP所屬國家
           HtmlunitTools：使用Htmlunit methods
@@ -40,6 +44,6 @@
       psw_regexp.js：密碼驗證 （含Regular Expression）
       setDialog.js：開啟dialog基礎設定 methods
       setMutiValues.js：set 各種多選項值 methods
-  
+      JS命名空間&OO寫法.js：namespace與OO物件寫法
   
  
